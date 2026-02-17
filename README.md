@@ -15,7 +15,7 @@ Installation
 bash
 
 # Clone the repository
-git clone https://github.com/yourusername/auto-organize.git
+git clone https://github.com/gwangwwan/auto-organize.git
 cd auto-organize
 
 # Build and install
